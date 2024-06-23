@@ -1,12 +1,11 @@
 {
-  "homepage": "https://vansh029.github.io/Portfolio/",
+  
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run dev" ,
-    "deploy":"gp-pages -d dist",
+    
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
