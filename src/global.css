@@ -1,0 +1,42 @@
+/* Global CSS */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #FFFFFF;
+  color: #333333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.section {
+  margin-bottom: 50px;
+}
+
+.skills-section {
+  padding: 50px 0;
+}
+
+.project-item {
+  margin-bottom: 20px;
+}
+
+.experience-item {
+  margin-bottom: 20px;
+}
+
+.education-section {
+  padding: 50px 0;
+}
+
+.projects-section {
+  padding: 50px 0;
+}
+
+.summary-section {
+  padding: 50px 0;
+}
